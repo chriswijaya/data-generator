@@ -1,0 +1,23 @@
+{
+  "name": "@catapago/data-generator",
+  "version": "1.0.0",
+  "description": "Template base data generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswijaya/data-generator.git"
+  },
+  "keywords": [
+    "data",
+    "generator"
+  ],
+  "author": "Chris Wijaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chriswijaya/data-generator/issues"
+  },
+  "homepage": "https://github.com/chriswijaya/data-generator#readme"
+}
