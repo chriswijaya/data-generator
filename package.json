@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/chriswijaya/data-generator/issues"
   },
-  "homepage": "https://github.com/chriswijaya/data-generator#readme"
+  "homepage": "https://github.com/chriswijaya/data-generator#readme",
+  "dependencies": {
+    "argparse": "^2.0.1"
+  }
 }
